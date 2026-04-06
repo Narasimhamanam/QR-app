@@ -53,8 +53,12 @@ git clone https://github.com/your-username/qr-generator-app.git
 
 ## 🔮 Future Improvements
 
-📧 Email QR Code with attachment
-📱 SMS / WhatsApp integration
-🗄️ Save QR history
-🌐 Deploy live (Netlify / Vercel)
-🔐 Real authentication system
+- 📧 Email QR Code with attachment
+
+- 📱 SMS / WhatsApp integration
+
+- 🗄️ Save QR history
+
+- 🌐 Deploy live (Netlify / Vercel)
+
+- 🔐 Real authentication system
